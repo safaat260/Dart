@@ -1,0 +1,8 @@
+void main() {
+    int n1 = 5;
+    String name = "Fahim";
+    bool isfalse = true;
+    double n2 = 10.20;
+
+    print("${n1} name ${n2} bool");
+  }
